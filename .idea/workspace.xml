@@ -9,44 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02db0dd4-798c-43c7-b4e3-3cf09b3d6c2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/icia/instar/controller/BoardController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/icia/instar/controller/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/icia/instar/controller/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/icia/instar/dto/MemberDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/icia/instar/dto/MemberFileDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/icia/instar/dto/boardDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/icia/instar/repository/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/icia/instar/service/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/member-mapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/root-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/servlet-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/boardSave.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/component/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/memberDetail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/memberDetailAdmin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/memberList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/memberMain.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/memberSave.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/boardContents.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/boardSave.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/instar1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/instar2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/logout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/profile.png" afterDir="false" />
-    </list>
+    <list default="true" id="02db0dd4-798c-43c7-b4e3-3cf09b3d6c2a" name="Changes" comment="개인프로젝트" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,11 +183,30 @@
       <workItem from="1684885597797" duration="13667000" />
       <workItem from="1684906634868" duration="8365000" />
       <workItem from="1684971419074" duration="21437000" />
-      <workItem from="1685057685085" duration="21339000" />
+      <workItem from="1685057685085" duration="21589000" />
     </task>
+    <task id="LOCAL-00001" summary="개인프로젝트">
+      <created>1685086148573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685086148573</updated>
+    </task>
+    <task id="LOCAL-00002" summary="개인프로젝트">
+      <created>1685086169874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685086169874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="개인프로젝트" />
+    <option name="LAST_COMMIT_MESSAGE" value="개인프로젝트" />
   </component>
 </project>
